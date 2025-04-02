@@ -1,0 +1,8 @@
+gradio
+langchain
+chromadb
+transformers
+sentence-transformers
+torch
+pymupdf
+python-docx
